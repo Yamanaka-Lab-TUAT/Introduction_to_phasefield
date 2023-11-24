@@ -12,7 +12,7 @@ ISBN: 978-4-621-30888-2<br>
 ## このリポジトリでは, 丸善出版株式会社より出版した著書に掲載のサンプルプログラムを公開しています. 
 
 ##
-このリポジトリに掲載されているプログラム/ソースコード等を使用することによって生じた如何なる損失や不利益については、上記出版物の著者ら、および、著者らの所属機関は、責任を負いません。
-このリポジトリに掲載されているプログラム/ソースコードの内容、使用方法に関する個別の相談ならびに質問にはお答え致しません。
-The authors of the above book and the author's affiliations are not responsible of any loss or other detriments as a result of the contents in this repository.
-The authors of the above book and the author's affiliations do not answer to your questions and comments to the contents in this repository.
+このリポジトリに掲載されているプログラム/ソースコード等を使用することによって生じた如何なる損失や不利益については、上記出版物の著者ら、および、著者らの所属機関は、責任を負いません。<br>
+このリポジトリに掲載されているプログラム/ソースコードの内容、使用方法に関する個別の相談ならびに質問にはお答え致しません。<br>
+The authors of the above book and the author's affiliations are not responsible of any loss or other detriments as a result of the contents in this repository.<br>
+The authors of the above book and the author's affiliations do not answer to your questions and comments to the contents in this repository.<br>
